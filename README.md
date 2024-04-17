@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Mobility Engineering, AI/ML
 - 💞️ I’m looking to collaborate on Automotive Industry, Self driving challenges
 - 📫 How to reach me ashharzaman@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am awesome in sports
 
 <!---
