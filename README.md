@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Automotive Industry, Self driving challenges
 - 📫 How to reach me ashharzaman@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a awesome in sports
+- ⚡ Fun fact: I am awesome in sports
 
 <!---
 zetabits/zetabits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
